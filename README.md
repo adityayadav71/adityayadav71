@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a driven and enthusiastic 3rd year Computer Engineering student, I am passionate about leveraging my technical skills to build scalable and secure web applications. My expertise lies in the MERN stack and I constantly challenge myself by solving complex data structure and algorithm problems on Leetcode. I am always curious about how to design scalable and distributed systems and I am eager to learn and grow in this field. I am committed to delivering high-quality software solutions that meet the needs of users while maintaining technical excellence.<br>
+As a driven and enthusiastic Computer Engineering student currently in my 3rd-year. I have spent my years of graduation refining my problem-solving skills by solving data structures and algorithms problems. I have also built projects in the web development domain. I am always curious about system designing and network security and I am eager to learn and grow in this field. I am a creative problem-solver and team player, always looking for new opportunities to apply my skills and make a positive impact.<br>
 
 
 ## 🌐 Socials:
