@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a driven and enthusiastic Computer Engineering student currently in my 3rd-year. I have spent my years of graduation refining my problem-solving skills by solving data structures and algorithms problems. I have also built projects in the web development domain. I am always curious about system designing and network security and I am eager to learn and grow in this field. I am a creative problem-solver and team player, always looking for new opportunities to apply my skills and make a positive impact.<br>
+Hey there! I am Aditya Yadav, currently pursuing my bachelors in computer engineering at TCET Mumbai, India. I am a web developer, check out my pinned projects to see my work! Apart from coding, I like reading and journaling in my free time. 
 
 
 ## 🌐 Socials:
