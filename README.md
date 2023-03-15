@@ -3,7 +3,7 @@ Hey there! I am Aditya Yadav, currently pursuing my bachelors in computer engine
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-yadav-013865213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya.yadav908)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@adityayadav1088) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aditya7169)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-yadav-013865213)
 
 ## 🧑🏽‍💻LeetCode Stats:
 [![LeetCode user adityayadav71](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20solved%20on%20LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityayadav71&logo=leetcode&logoColor=yellow)](https://leetcode.com/adityayadav71/)
