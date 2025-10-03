@@ -1,5 +1,8 @@
 # About Me:
-Hey there! I am Aditya Yadav, pursuing my bachelor's in computer engineering at TCET Mumbai, India. I am a web developer, check out my pinned projects to see my work! 
+Hey! I'm a Full-Stack Developer building web apps.
+
+My tools of choice: React, Node.js, and TypeScript.
+I’m currently learning about Spring Boot and microservices.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-yadav-013865213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityayadav71/)
